@@ -1,0 +1,2 @@
+Training dataset:path = kagglehub.dataset_download("divyanshu2000/doctor-healthcare-100k")
+Testing dataset:path = kagglehub.dataset_download("henry41148/icliniq-medical-qa-38k")
